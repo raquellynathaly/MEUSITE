@@ -9,3 +9,7 @@ p {
 em strong {
     color:aliceblue;
 }
+
+body {
+    font-size: 30px;
+}
