@@ -1,3 +1,10 @@
+body {
+    background: #CCCCCC
+}
+P {
+    text-align: center
+}
+
 strong {
     color:aliceblue;
 }
