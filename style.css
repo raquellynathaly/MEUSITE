@@ -1,3 +1,11 @@
 body {
-    color:aliceblue
+    color:white
 }
+
+   ul {
+    display: flex;
+    justify-content: spance-berween;
+    align-style-type: nome;
+    align-items: center;
+    
+   }
